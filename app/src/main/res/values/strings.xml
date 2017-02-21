@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tea</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+    <string name="pull_to_refresh_release_label">Release to refresh...</string>
+    <string name="pull_to_refresh_refreshing_label">Loading...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+    <string name="json_qiyoulianmeng">{
+  "rss": {
+    "-version": "2.0",
+    "channel": {
+      "title": "磁湖运动网 - 骑友联盟",
+      "link": "http://bbs.cihusport.com/forum-44-1.html",
+      "description": "Latest 20 threads of 骑友联盟",
+      "copyright": "Copyright(C) 磁湖运动网",
+      "generator": "Discuz! Board by Comsenz Inc.",
+      "lastBuildDate": "Wed, 02 Nov 2016 02:00:27 +0000",
+      "ttl": "60",
+      "image": {
+        "url": "\nhttp://bbs.cihusport.com/static/image/common/logo_88_31.gif\n",
+        "title": "磁湖运动网",
+        "link": "http://bbs.cihusport.com/"
+      },
+      "item": [
+        {
+          "title": "一次难忘的318之行",
+          "link": "http://bbs.cihusport.com/thread-2640-1-1.html",
+          "description": "\n\n九月六号来十从成都出发刚好九月三十号到达拉萨！一共耗时二十五天其中休息了三天。318这条线风景是没得说的，在草原上飞驰过，在美丽雪山上陶醉过，当然了也在路上与烂泥巴路争斗过！说起来也挺倒霉的，自从过了然乌之后，后面一连七天的雨！而且这些烂泥巴路都是在然 ...\n\n",
+          "category": "骑友联盟",
+          "author": "错过的酱油",
+          "pubDate": "Tue, 01 Nov 2016 07:12:54 +0000"
+        },
+        {
+          "title": "国庆桃花冲、鹞落坪、明堂山穿越之四：迎亲",
+          "link": "http://bbs.cihusport.com/thread-2599-1-1.html",
+          "description": "\n\n组织：黄石乐天单车户外 10月5日国庆疯一把之旅进入第四天，激动啊！凌晨刚睡踏实，手机响了，5：30甩一杆、自由人两位老头就遥控我们起床，人老心不老，今天有美女迎亲分队来接，看把这两位骚动地。 有了前两天的教训，今天的早餐大家都不敢马虎，都吃 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Tue, 11 Oct 2016 14:03:17 +0000"
+        },
+        {
+          "title": "国庆桃花冲、鹞落坪、明堂山穿越之三：飙坡",
+          "link": "http://bbs.cihusport.com/thread-2598-1-1.html",
+          "description": "\n\n组织：黄石乐天单车户外\n 10月4日国庆疯一把之旅进入第三天，露营的中学紧邻G318，我们在来往的汽笛声中苏醒，昨晚大家都休息得不错，体力再次满点，收拾好帐篷，约定在中学门口集合，我先从学校出来查看线路。 辨明了方向，找了一个早餐馆要了一碗三鲜面 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Mon, 10 Oct 2016 22:30:43 +0000"
+        },
+        {
+          "title": "国庆桃花冲、鹞落坪、明堂山穿越之二：转山",
+          "link": "http://bbs.cihusport.com/thread-2596-1-1.html",
+          "description": "\n\n组织：黄石乐天单车户外\n 10月3日凌晨，在此起彼伏公鸡打鸣声中我们醒来，这久违山村晨钟此时是显得那么悦耳，6：00大家从各自帐篷出来，由于帐篷不是露天下，外帐上一点露水都没有，收拾起来就很方便，各自又将昨天车子上的泥土擦拭一遍，人的精神经过一夜的修 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Sun, 09 Oct 2016 23:24:25 +0000"
+        },
+        {
+          "title": "国庆桃花冲、鹞落坪、明堂山穿越之一：雨袭",
+          "link": "http://bbs.cihusport.com/thread-2594-1-1.html",
+          "description": "\n\n组织：黄石乐天单车户外 自从五一小长假取消后，适合上班一族小长途骑行的只有“十一”了，好久没有搞次小长途，如是就想远足，恰逢看见黄石远飞户外群“十里画廊烟雨中，人间仙境入梦来”休闲穿越安徽岳西的活动：秋天的鹞落坪是一年中最美的季节，十里画廊秋色号 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Sat, 08 Oct 2016 22:48:09 +0000"
+        },
+        {
+          "title": "丙察察+山南线+中尼线 约2900公里",
+          "link": "http://bbs.cihusport.com/thread-2501-1-1.html",
+          "description": "\n\n丙察察+山南线+中尼线 约2900公里\n \n \n 第一章 丙察察线\n 一、简介\n 丙察察公路起点为怒江州贡山独龙族怒族自治县丙中洛乡，经西藏自治区察隅县察瓦龙乡，翻越齐马拉山等3个垭口，到达察隅县竹瓦根乡 ...\n\n",
+          "category": "骑友联盟",
+          "author": "zhanshuxue",
+          "pubDate": "Mon, 01 Aug 2016 03:17:08 +0000"
+        },
+        {
+          "title": "溯溪田家沟，穿越鹿耳山",
+          "link": "http://bbs.cihusport.com/thread-2454-1-1.html",
+          "description": "\n\n组织：黄石乐天捷安特单车户外\n 本周兰姐计划组织大家到田家山溯溪，但天气预报周末有雨，君子兰不甘心，特请风半仙算一算，热风没时间去，但还是熬不过兰姐，于是沐浴更衣、耗费很大功力，施展绝学，将雨算到了18日18：00以后。君子兰这才出了公告，开 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Mon, 20 Jun 2016 12:37:30 +0000"
+        },
+        {
+          "title": "悠哉游哉318(2016骑行川藏线)",
+          "link": "http://bbs.cihusport.com/thread-2453-1-1.html",
+          "description": "\n\n骑行西藏回来已有一个月，回想起一个月前骑行西藏感概万千！\n 参加骑行运动有三四年了，骑行川藏线是一直深藏心底的想法，今年终于实现了，行前准备了一个多月，约上了同事小龚，两人从四月二十号从黄石出发到五月二十四到家历时三十四天，一路上没有想象中的千辛 ...\n\n",
+          "category": "骑友联盟",
+          "author": "爱恨就在一瞬间",
+          "pubDate": "Mon, 20 Jun 2016 06:41:19 +0000"
+        },
+        {
+          "title": "乐见“熊家境户外训练基地\"改变 ---2016/5/15",
+          "link": "http://bbs.cihusport.com/thread-2414-1-1.html",
+          "description": "\n\n2016 、5 、15 （星期天）\n 又是一个整装日 --- 经过近五天的外出晃荡感觉思路清晰了好多！\n 今日去基地做贡献的有“晓波、败家子、张哥及、、、\n 激情四射哦、有图为证的\n \n \n \n \n \n \n \n \n \n \n \n \n ...\n\n",
+          "category": "骑友联盟",
+          "author": "磁湖潜水员",
+          "pubDate": "Tue, 17 May 2016 09:38:20 +0000"
+        },
+        {
+          "title": "乐见“熊家境户外训练基地”的改变！之 2016、5、8",
+          "link": "http://bbs.cihusport.com/thread-2406-1-1.html",
+          "description": "\n\n2016年5月8日（星期天）小雨 一大早“张哥”电话就来了告诉我他已到熊家境协会基地，并开始了卫生间的装修和改造相关事情，我当时很有点“汗颜”，人家一大早8：00不到就了，我还刚刚起床 领导还是满给力的，吃完早餐就赶紧去市场购买基地要用的“柴米酱醋、、、” ...\n\n",
+          "category": "骑友联盟",
+          "author": "追风",
+          "pubDate": "Tue, 10 May 2016 05:13:42 +0000"
+        },
+        {
+          "title": "骑行董家口，徒步青山谷",
+          "link": "http://bbs.cihusport.com/thread-2403-1-1.html",
+          "description": "\n\n4月初离开黄石到28日回来，2016年黄石骑行最好季节就这样将从我身边溜走，4月29日乐天捷安特单车户外组织骑行董家口、徒步青山谷的活动就再不能错过了。去年秋天群里组织过一次这个行程，当时就很想去，现在机会来了，没报上名的我还是不管不顾的行动起来。 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Sun, 08 May 2016 01:38:37 +0000"
+        },
+        {
+          "title": "2016“嗨夜～首发”风雨无阻 ！",
+          "link": "http://bbs.cihusport.com/thread-2401-1-1.html",
+          "description": "\n\n2016“嗨夜～首发”---熊家境户外训练基地！ ------ 风雨无阻 ------\n 【骑行距离】： 距离23.3公里，用时1小时25分钟 ；【骑行路况】： 杭州路（柏油路）---发展大道（水泥路、柏油路）--- 东方大道（柏油路）---熊家仙境（柏油路）- ...\n\n",
+          "category": "骑友联盟",
+          "author": "追风",
+          "pubDate": "Sat, 07 May 2016 06:10:01 +0000"
+        },
+        {
+          "title": "2016年“五一劳动节”---劳动光荣！",
+          "link": "http://bbs.cihusport.com/thread-2394-1-1.html",
+          "description": "\n\n劳动是一切知识的源泉。 我觉得人生求乐的方法，最好莫过于尊重劳动。一切乐境，都可由劳动得来，一切苦境，都可由劳动解脱。 所有现存的好东西都是创造的果实。 劳动是社会中每个人不可避免的义务。 ...\n\n",
+          "category": "骑友联盟",
+          "author": "追风",
+          "pubDate": "Tue, 03 May 2016 03:54:23 +0000"
+        },
+        {
+          "title": "2016 --- 天路318的奢华！！！《 更新至 D20日:八宿到然乌 》",
+          "link": "http://bbs.cihusport.com/thread-2385-1-1.html",
+          "description": "\n\n2016悄悄的来啦！伴随着炮竹声的渐渐远去、、、！\n 阳春三月没让我们感受到”春意的暖暖“，反而被连绵的春雨搞得神经即将错乱、、、！\n 然而~~~原本畏畏缩缩的”徐老湿“尽然和激情难耐的”龚总“一拍即合~~~这一对活宝尽然在这饶人心神的春雨季节里做出了 ...\n\n",
+          "category": "骑友联盟",
+          "author": "追风",
+          "pubDate": "Mon, 25 Apr 2016 11:14:33 +0000"
+        },
+        {
+          "title": "猴年第一骑，蕲春太平森林公园探路",
+          "link": "http://bbs.cihusport.com/thread-2298-1-1.html",
+          "description": "\n\n2月20日猴年第一骑黄石乐天捷安特单车户外选择一个休闲线路：黄冈遗爱湖，强度适中，是一个适合广大骑友开始新年热身的不错选择，参加的骑友踊跃。 春节期间浏览周边户外骑行爱好者写的路书，觉得蕲春太平森林公园和罗田惠兰山线路不错，比较而言蕲春太 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Tue, 23 Feb 2016 04:44:09 +0000"
+        },
+        {
+          "title": "熊家境赏雪景",
+          "link": "http://bbs.cihusport.com/thread-2267-1-1.html",
+          "description": "\n\n寒潮来袭，黄石迎来了2016年第一场雪，气温直线下降，最低-8℃，对北方人来说，也许这个温度正适合到户外去晒太阳，而对我们这些南方人来说那叫一个冷。\n 2016年元月24日，雪后第二天，气温依然还是那么的低，北方呼呼的吹，打在脸上生疼，耳朵不捂就冻的硬硬 ...\n\n",
+          "category": "骑友联盟",
+          "author": "云中行",
+          "pubDate": "Mon, 25 Jan 2016 07:28:28 +0000"
+        },
+        {
+          "title": "才骑塘桥观红枫林，又登铁山赏熊家境",
+          "link": "http://bbs.cihusport.com/thread-2235-1-1.html",
+          "description": "\n\n11月21日是个周六，乐天单车户外继续采用超级俱乐部组织活动，由于前期管理君子兰宣传、培训到位，并且有超级俱乐部的“你组织，我就送”活动，报名者严重爆棚，很快达到50人上限，真是一位难求。 我就没报上，这天罗田去不了，随州不能去，去看看秋末冬 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Wed, 25 Nov 2015 12:45:36 +0000"
+        },
+        {
+          "title": "骑行九古奇村，漫步诗画上冯",
+          "link": "http://bbs.cihusport.com/thread-2225-1-1.html",
+          "description": "\n\n2015年11月1日黄石捷安特乐天单车组织上冯村寻古，虽然去过两次，但因为不同，还是想去。2014年3月接待老家过来的亲人，开车带来看过一次，那时包括路好多地方在修，但原生态的美还是得到一众亲人认可，赞不绝口，为我是大大的争了一回脸；第二次就在上周六，一个人 ...\n\n",
+          "category": "骑友联盟",
+          "author": "hbxss",
+          "pubDate": "Tue, 03 Nov 2015 12:20:43 +0000"
+        },
+        {
+          "title": "三条汉子，一座山——骑行横岗山",
+          "link": "http://bbs.cihusport.com/thread-2221-1-1.html",
+          "description": "\n\n三条汉子，一座山——骑行横岗山\n 2015年10月17-18日，周末，又到了该折腾的时间了。骑自行车的好处就是，当你有闲暇时间的时候，你可以去你想去的任何地方，不用担心什么时候会被堵在路上，前不着村，后不着店，没得吃，没得喝。一大早，梅哥骑着他的白马，托着行 ...\n\n",
+          "category": "骑友联盟",
+          "author": "云中行",
+          "pubDate": "Fri, 23 Oct 2015 05:44:45 +0000"
+        },
+        {
+          "title": "懒虫游记",
+          "link": "http://bbs.cihusport.com/thread-2219-1-1.html",
+          "description": "\n 海宁潮你走来！\n 第一次观潮居然错过了时间 \n",
+          "category": "骑友联盟",
+          "author": "自由懶蟲",
+          "pubDate": "Wed, 21 Oct 2015 05:31:38 +0000"
+        }
+      ]
+    }
+  }
+}</string>
+
+</resources>
